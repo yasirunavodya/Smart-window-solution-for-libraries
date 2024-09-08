@@ -32,3 +32,10 @@ The Smart Window Solution is built to respond to changing environmental conditio
 
 ![IMG_6350](https://github.com/user-attachments/assets/048861a1-6362-4abc-ad2f-158cf08376a9)
 
+## LabView
+![Screenshot (280)](https://github.com/user-attachments/assets/e8b65f21-5a53-41c8-9008-c3abddd7feac)
+![Screenshot (281)](https://github.com/user-attachments/assets/1aba4a21-8381-45dc-b8e3-09a655ddcf51)
+![Screenshot (282)](https://github.com/user-attachments/assets/030ac8f6-a688-4693-88bb-951603eb0c0d)
+![Screenshot (283)](https://github.com/user-attachments/assets/71c7e0ad-a701-4d1f-9153-c97cc59c2ebc)
+![Screenshot (284)](https://github.com/user-attachments/assets/e97ee525-030f-4f08-a2fe-b9e9248bb105)
+
