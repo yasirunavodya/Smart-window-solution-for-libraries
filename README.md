@@ -30,5 +30,5 @@ The Smart Window Solution is built to respond to changing environmental conditio
 
 ## Our Team
 
-![App Screenshot](https://drive.google.com/file/d/1iH2dsah3ytkSqE1xiiFhQnl-NmTeNNpq/view?usp=sharing)
+![IMG_6350](https://github.com/user-attachments/assets/048861a1-6362-4abc-ad2f-158cf08376a9)
 
