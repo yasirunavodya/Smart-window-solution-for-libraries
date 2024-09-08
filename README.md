@@ -28,9 +28,6 @@ The Smart Window Solution is built to respond to changing environmental conditio
 4. **Cooling System**:
    - When the room temperature exceeds **30°C**, the fan will start to cool down the room by circulating air.
 
-## Our Team
-
-![IMG_6350](https://github.com/user-attachments/assets/048861a1-6362-4abc-ad2f-158cf08376a9)
 
 ## LabView
 ![Screenshot (280)](https://github.com/user-attachments/assets/e8b65f21-5a53-41c8-9008-c3abddd7feac)
@@ -39,3 +36,6 @@ The Smart Window Solution is built to respond to changing environmental conditio
 ![Screenshot (283)](https://github.com/user-attachments/assets/71c7e0ad-a701-4d1f-9153-c97cc59c2ebc)
 ![Screenshot (284)](https://github.com/user-attachments/assets/e97ee525-030f-4f08-a2fe-b9e9248bb105)
 
+## Our Team
+
+![IMG_6350](https://github.com/user-attachments/assets/048861a1-6362-4abc-ad2f-158cf08376a9)
