@@ -7,7 +7,7 @@ This project is designed to automate the control of windows and shades in a libr
 The Smart Window Solution is built to respond to changing environmental conditions. It leverages temperature, light intensity, and rain sensors to dynamically adjust window positions, shades, and lighting. The system helps maintain optimal indoor conditions while reducing the need for manual intervention.
 
 ## Sensors Used
-1. **Temperature Sensor**: Custom-built using a PTC transmitter, calibrated with a thermometer for accurate temperature readings.
+1. **Temperature Sensor**: Custom-built using a PTC termistor, calibrated with a thermometer for accurate temperature readings.
 2. **Light Intensity Sensor**: Developed using an LDR, calibrated with a luxmeter to detect varying light conditions.
 3. **Rain Sensor**: Detects the presence of rain, preventing the windows from opening during rainfall.
 
